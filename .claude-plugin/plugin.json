@@ -1,0 +1,22 @@
+{
+  "name": "cli-design-system",
+  "version": "1.0.0",
+  "description": "Design standards, audit tools, and copy review for building professional command-line interfaces. Covers contract, UX, UI, and documentation layers.",
+  "author": {
+    "name": "Francisco",
+    "email": "fvena32@gmail.com"
+  },
+  "homepage": "https://github.com/fvena/cli-design-system",
+  "repository": "https://github.com/fvena/cli-design-system",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "cli-design",
+    "cli-audit",
+    "terminal-ui",
+    "command-line",
+    "ux",
+    "style-guide",
+    "copy-review"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "name": "cli-design-system",
+    "description": "Design standards, audit tools, and copy review for building professional command-line interfaces"
+  },
+  "plugins": {
+    "cli-design-system": {
+      "name": "cli-design-system",
+      "description": "Design standards, audit tools, and copy review for building professional command-line interfaces. Covers contract, UX, UI, and documentation layers.",
+      "version": "1.0.0",
+      "source": {
+        "type": "directory",
+        "path": "."
+      }
+    }
+  }
+}
