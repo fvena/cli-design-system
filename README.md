@@ -132,6 +132,12 @@ cli-design-system/
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Agent Skills specification](https://agentskills.io/specification)
 
+## Privacy
+
+This plugin consists entirely of static Markdown files. It does not collect,
+transmit, or store any user data. It does not make network requests. It does
+not include telemetry. No personal information is accessed or processed.
+
 ## License
 
 MIT
